@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #define SIZE 5
-#define N 5
 
 struct CircularBuffer {
     char buffer[SIZE];
